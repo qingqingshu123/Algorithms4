@@ -7,7 +7,7 @@ package chapter1.part1;
 
 public class Prac1 {
     public static void main(String[] args) {
-
+        System.out.println("adc");
     }
     /*int a = 0;*/
 
